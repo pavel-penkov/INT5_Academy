@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#BEET-38] [HW][VW PARTS][MOBILE] Promotional Images are too small to read</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://beetrootnew.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [BEET-38]&nbsp;<a href="https://beetrootnew.atlassian.net/browse/BEET-38">[HW][VW PARTS][MOBILE] Promotional Images are too small to read</a>
+            <span class="subText">
+               Created: 07/Mar/24                   &nbsp;Updated: 07/Mar/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://beetrootnew.atlassian.net/secure/BrowseProject.jspa?id=10000">Beetroot</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Bug
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:a4afb6cc-2646-480e-b3c0-adee658627c5"
+                id="word_reporter_712020:a4afb6cc-2646-480e-b3c0-adee658627c5"
+                href="https://beetrootnew.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aa4afb6cc-2646-480e-b3c0-adee658627c5">
+                    Malinga Thennakoon
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10037-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://beetrootnew.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    Screenshot 2024-03-07 at 16.35.42.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://beetrootnew.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    Screenshot 2024-03-07 at 16.36.09.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10037-value" class="value" bgcolor="#ffffff" width="80%">      0|i0007z:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10037-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>The promotional advertisements displayed just before “Shop Volkswagen Parts, Accessories and VW DriverGear Online“ are too small and unreadable to be recognized while browsing on mobile.</p>
+
+<h3><a name="Stepstoreproduce"></a><ins>Steps to reproduce</ins></h3>
+
+<ul>
+	<li>Navigate to the Home page of www.vw.nyc</li>
+	<li>Scroll down until you find 2 promotions “Get a 15% rebate“ and “For larger-than-life luggage“</li>
+</ul>
+
+
+<h3><a name="Actualresults"></a><ins>Actual results</ins></h3>
+
+<ul>
+	<li>Promotional images are too small and unreadable on mobile browser except for the titles<br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10041" height="753" width="823" style="border: 0px solid black" /></span></li>
+</ul>
+
+
+<h3><a name="Expectedresults"></a><ins>Expected results</ins></h3>
+
+<ul>
+	<li>Display advertisements in a readable format, maybe arrange both vertically as they get more space.<br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10042" height="640" width="1279" style="border: 0px solid black" /></span></li>
+</ul>
+
+
+
+
+<div class="panel" style="background-color: #deebff;border-width: 1px;"><div class="panelContent" style="background-color: #deebff;">
+<h5><a name="Environment%3AChromeBrowserVersion74.0.3729.185"></a><em>Environment : Chrome Browser Version 74.0.3729.185</em></h5>
+
+<h5><a name="OperatingSystem%3AAndroid10%28Q%29"></a><em>Operating System: Android 10 (Q)</em></h5>
+
+<h5><a name="Device%3APixel2"></a><em>Device : Pixel 2</em></h5>
+</div></div>
+
+<div class="panel" style="background-color: #fffae6;border-width: 1px;"><div class="panelContent" style="background-color: #fffae6;">
+<h3><a name="Severity%3AMedium"></a><b>Severity : Medium</b></h3>
+</div></div>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Sun Mar 17 22:38:18 UTC 2024 by Malinga Thennakoon using Jira 1001.0.0-SNAPSHOT#100247-rev:f15eb5ecd9752cc33a3d56ca2cfdfada66c281b0.
+
+</body>
+</html>
