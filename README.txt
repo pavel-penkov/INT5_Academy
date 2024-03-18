@@ -1,5 +1,9 @@
 Links: (Checklists, test cases, bugs)
 
+MyWork/Checklists
+MyWork/TestCases
+MyWork/Bugs
+
 https://docs.google.com/document/d/1_6q6qSeXJI9QZD5D92AyVx2uWYGfIaxTKCRx29Bukis/edit?usp=share_link
 
 https://docs.google.com/document/d/13k3hFjWF0PtMCSD__kRB9dszvwPl9L29YEWHJN1gqfU/edit?usp=share_link
