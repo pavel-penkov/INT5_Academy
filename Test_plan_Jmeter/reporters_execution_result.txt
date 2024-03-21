@@ -1,0 +1,4 @@
+Beet Seed 
+
+The conclusion is:
+ The TOTAL &  HTTP Requests with samples of 15 have an average of 156, and 0.00% errors, the minimum amount is 20 and maximum is 319 bytes.  Therefore the average number of Bytes is 6027.6
