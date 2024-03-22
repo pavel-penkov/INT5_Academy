@@ -1,0 +1,51 @@
+Using the Bash shell’s CLI, perform the following actions:
+1. in your home directory, go to the Downloads directory.
+2. create a GitLesson directory in it.
+3. create a file called file1.txt in the Downloads directory: (in PowerShell as admin)
+4. write in file1.txt the text "Hello, world!" and save the changes
+5. display the contents of file1.txt on the screen: type file1.txt
+6. copy file1.txt from the Downloads directory to the GitLesson directory and display the contents of the GitLesson directory. “copy file1.txt GitLesson” ← Done!
+7. add screenshots of the result of each command to LMS.
+
+Solution, copied and pasted from my window:
+
+PS C:\Users\Daniel Clapa\Downloads> cd GitLesson
+PS C:\Users\Daniel Clapa\Downloads\GitLesson> cd ..
+PS C:\Users\Daniel Clapa\Downloads> mkdir GitLesson1
+
+
+    Directory: C:\Users\Daniel Clapa\Downloads
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        19/03/2024     10:29                GitLesson1
+
+
+PS C:\Users\Daniel Clapa\Downloads> New-item -Path . -Name "file2.txt" -ItemType "file" -Value "Hello world!"
+
+
+    Directory: C:\Users\Daniel Clapa\Downloads
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        19/03/2024     10:30             12 file2.txt
+
+
+PS C:\Users\Daniel Clapa\Downloads> type file2.txt
+Hello world!
+PS C:\Users\Daniel Clapa\Downloads> copy file2.txt GitLesson1
+PS C:\Users\Daniel Clapa\Downloads> cd GitLesson1
+PS C:\Users\Daniel Clapa\Downloads\GitLesson1> ls
+
+
+    Directory: C:\Users\Daniel Clapa\Downloads\GitLesson1
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        19/03/2024     10:30             12 file2.txt
+
+
+PS C:\Users\Daniel Clapa\Downloads\GitLesson1>
