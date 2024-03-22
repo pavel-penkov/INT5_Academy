@@ -1,8 +1,8 @@
 Bug reports:
 
-https://beetroot2024.atlassian.net/browse/SCRUM-78
-https://beetroot2024.atlassian.net/browse/SCRUM-100
-https://beetroot2024.atlassian.net/browse/SCRUM-97
-https://beetroot2024.atlassian.net/browse/SCRUM-98
-https://beetroot2024.atlassian.net/browse/SCRUM-99
+C:\Users\Sara Carvalho\Desktop\Curso QA\git1.2\INT5_Academy\MyWork\Bugs.docx
+
+Test cases:
+
+C:\Users\Sara Carvalho\Desktop\Curso QA\git1.2\INT5_Academy\MyWork\Test cases.docx
 
